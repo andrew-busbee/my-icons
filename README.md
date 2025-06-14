@@ -1,4 +1,4 @@
-# Icons
+Various icons downloaded from https://dashboardicons.com/
 
 <img src="png/falcon.jpg" alt="falcon" width="50"> <img src="png/Raspberry_Pi_3B+.png" alt="pi3b+" width="50"> <img src="png/lor.jpg" alt="lor" width="50"> <img src="png/espartstick.png" alt="espartstick" width="50"> <img src="png/homersimpson.png" alt="homersimpson" width="50"> <img src="png/speedtest-tracker-icon.png" alt="Speedtest-Tracker" width="50"> <img src="png/shlink.png" alt="Shlink" width="50"> <img src="png/uptimekuma.png" alt="Uptime Kuma" width="50"> <img src="png/yahoo.png" alt="Yahoo" width="50"> <img src="png/linksys.png" alt="Yahoo" width="50"> <img src="png/linode.png" alt="Yahoo" width="50"> 
 
